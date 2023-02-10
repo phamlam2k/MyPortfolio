@@ -5,11 +5,11 @@ export const Introduction = () => {
     <div className="wrapper hero__wrapper bottom-border">
       <div className="hero__content">
         <picture>
-          <source media="(min-width: 62.5em)" srcSet="/assets/images/avatar_justin.png" />
-          <source media="(min-width: 37.5em)" srcSet="/assets/images/avatar_justin.png" />
+          <source media="(min-width: 62.5em)" srcSet="/assets/images/avatar_justin.webp" />
+          <source media="(min-width: 37.5em)" srcSet="/assets/images/avatar_justin.webp" />
           <img
             className="hero__image"
-            src="/assets/images/avatar_justin.png"
+            src="/assets/images/avatar_justin.webp"
             alt="picture of Adam Keyes"
             width-="174"
             height="383"
