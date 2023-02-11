@@ -298,6 +298,7 @@ svg {
   top: 0;
   left: 50%;
   translate: -50%;
+  margin-block-start: 150px;
   width: 174px;
   height: auto;
 }

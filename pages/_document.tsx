@@ -12,17 +12,17 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <meta charSet="utf-8" />
-          <meta name="keywords" content="NFTs Game Titan Hunters Monster Hunter Genshin Impact NFT Blockchain" />
+          <meta name="keywords" content="Hi! My name is Lam. Iam a web developer and welcome to my portfolio" />
           <meta
             name="description"
             // eslint-disable-next-line max-len
-            content="The only official domain: titanhunters.io - TITAN HUNTERS is inspired by fun gameplay of Diablo, Voxel’s signature look and the feel of Minecraft. It is a creative and innovative game project that combines NFT (Earning Nature) and the best gaming genre of MMORPG (Fun Nature)."
+            content="The only official domain: Lam Pham"
           />
 
-          <meta name="application-name" content="Titan Hunters" />
+          <meta name="application-name" content="Lam Pham" />
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-          <meta name="apple-mobile-web-app-title" content="Titan Hunters" />
+          <meta name="apple-mobile-web-app-title" content="Lam Pham" />
 
           <meta name="format-detection" content="telephone=no" />
           <meta name="mobile-web-app-capable" content="yes" />
@@ -30,7 +30,7 @@ class MyDocument extends Document {
 
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:url" content="https://titanhunters.io" />
-          <meta name="twitter:title" content="TITAN HUNTERS - FREE TO PLAY &amp; INVEST TO EARN" />
+          <meta name="twitter:title" content="Lam Pham" />
           <meta
             name="twitter:description"
             // eslint-disable-next-line max-len
@@ -40,15 +40,18 @@ class MyDocument extends Document {
           <meta name="twitter:creator" content="@Titan_Hunters" />
 
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="TITAN HUNTERS - FREE TO PLAY &amp; INVEST TO EARN" />
+          <meta property="og:title" content="Lam Pham Portfolio" />
           <meta
             property="og:description"
             // eslint-disable-next-line max-len
-            content="The only official domain: titanhunters.io - TITAN HUNTERS is inspired by fun gameplay of Diablo, Voxel’s signature look and the feel of Minecraft. It is a creative and innovative game project that combines NFT (Earning Nature) and the best gaming genre of MMORPG (Fun Nature)."
+            content="Hi! My name is Lam. Iam a web developer and welcome to my portfolio."
           />
           <meta property="og:site_name" content="Titan Hunters" />
           <meta property="og:url" content="https://titanhunters.io" />
-          <meta property="og:image" content="https://titanhunters.io/app-icons/512.png" />
+          <meta
+            property="og:image"
+            content="https://media.discordapp.net/attachments/1048815885265141770/1070630351430488105/IMG_2192.jpeg?width=507&height=676"
+          />
 
           <link rel="apple-touch-icon" sizes="152x152" href="/app-icons/152.png" />
           <link rel="apple-touch-icon" sizes="167x167" href="/app-icons/167.png" />
