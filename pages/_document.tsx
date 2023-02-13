@@ -28,17 +28,6 @@ class MyDocument extends Document {
           <meta name="mobile-web-app-capable" content="yes" />
           <meta name="theme-color" content="#1285d2" />
 
-          <meta name="twitter:card" content="summary" />
-          <meta name="twitter:url" content="https://titanhunters.io" />
-          <meta name="twitter:title" content="Lam Pham" />
-          <meta
-            name="twitter:description"
-            // eslint-disable-next-line max-len
-            content="The only official domain: titanhunters.io - TITAN HUNTERS is inspired by fun gameplay of Diablo, Voxel’s signature look and the feel of Minecraft. It is a creative and innovative game project that combines NFT (Earning Nature) and the best gaming genre of MMORPG (Fun Nature)."
-          />
-          <meta name="twitter:image" content="https://titanhunters.io/app-icons/192.png" />
-          <meta name="twitter:creator" content="@Titan_Hunters" />
-
           <meta property="og:type" content="website" />
           <meta property="og:title" content="Lam Pham Portfolio" />
           <meta
@@ -46,20 +35,12 @@ class MyDocument extends Document {
             // eslint-disable-next-line max-len
             content="Hi! My name is Lam. Iam a web developer and welcome to my portfolio."
           />
-          <meta property="og:site_name" content="Titan Hunters" />
-          <meta property="og:url" content="https://titanhunters.io" />
+          <meta property="og:site_name" content="Lam Pham" />
+          <meta property="og:url" content="https://www.lampnm.com" />
           <meta
             property="og:image"
             content="https://media.discordapp.net/attachments/1048815885265141770/1070630351430488105/IMG_2192.jpeg?width=507&height=676"
           />
-
-          <link rel="apple-touch-icon" sizes="152x152" href="/app-icons/152.png" />
-          <link rel="apple-touch-icon" sizes="167x167" href="/app-icons/167.png" />
-          <link rel="apple-touch-icon" sizes="180x180" href="/app-icons/180.png" />
-          <link rel="apple-touch-icon" href="/app-icons/256.png" />
-
-          <link rel="icon" type="image/png" sizes="32x32" href="/app-icons/32.png" />
-          <link rel="icon" type="image/png" sizes="16x16" href="/app-icons/16.png" />
 
           <link rel="manifest" href="/manifest.json" />
 
