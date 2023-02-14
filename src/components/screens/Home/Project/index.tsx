@@ -9,52 +9,51 @@ export const Project = () => {
 
         <div className="projects__item">
           <picture className="projects__picture">
-            <source media="(min-width: 62.5em)" srcSet="/assets/images/thumbnail-project-1-large.webp" />
+            <source media="(min-width: 62.5em)" srcSet="/assets/images/IeltsProject.webp" />
             <img
               className="projects__image"
-              src="/assets/images/thumbnail-project-1-small.webp"
+              src="/assets/images/IeltsProject.webp"
               alt="screenshot of design portfolio website"
               width-="343"
               height="253"
             />
           </picture>
-          <h3 className="projects__name">Design Portfolio</h3>
+          <h3 className="projects__name">Ielts Project</h3>
           <p className="projects__tags">
-            <span>HTML</span>
-            <span>CSS</span>
+            <span>NextJs</span>
+            <span>NodeJs</span>
           </p>
           <div className="projects__links">
-            <a href="" className="underline">
+            <a href="https://ielts.lampnm.com/" className="underline" target="_blank" rel="noreferrer">
               View Project
-            </a>
-            <a href="" className="underline">
-              View Code
             </a>
           </div>
         </div>
 
         <div className="projects__item">
           <picture className="projects__picture">
-            <source media="(min-width: 62.5em)" srcSet="/assets/images/thumbnail-project-2-large.webp" />
+            <source media="(min-width: 62.5em)" srcSet="/assets/images/AmialandProject.webp" />
             <img
               className="projects__image"
-              src="/assets/images/thumbnail-project-2-small.webp"
+              src="/assets/images/AmialandProject.webp"
               alt="screenshot of learning platform website with different courses"
               width-="343"
               height="253"
             />
           </picture>
-          <h3 className="projects__name">E-Learning Landing Page</h3>
+          <h3 className="projects__name">Amialand Landing Page</h3>
           <p className="projects__tags">
             <span>HTML</span>
             <span>CSS</span>
           </p>
           <div className="projects__links">
-            <a href="" className="underline">
+            <a
+              href="https://web-final-hanu.vercel.app/index.html"
+              className="underline"
+              target="_blank"
+              rel="noreferrer"
+            >
               View Project
-            </a>
-            <a href="" className="underline">
-              View Code
             </a>
           </div>
         </div>

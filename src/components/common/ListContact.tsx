@@ -1,4 +1,4 @@
-import { GitHubIcon, FacebookIcon, LinkedInIcon } from './CustomIcons'
+import { GitHubIcon, FacebookIcon, LinkedInIcon, MailIcon } from './CustomIcons'
 
 export const socials = [
   {
@@ -15,9 +15,15 @@ export const socials = [
   },
   {
     id: 3,
-    link: 'https://www.facebook.com/phamlam2k',
+    link: 'https://www.linkedin.com/in/mai-l%C3%A2m-ph%E1%BA%A1m-08857a192/',
     name: 'LinkedIn',
     svg: <LinkedInIcon />,
+  },
+  {
+    id: 4,
+    link: 'https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mailam1309@gmail.com',
+    name: 'Gmail',
+    svg: <MailIcon />,
   },
 ]
 
