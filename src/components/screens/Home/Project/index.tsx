@@ -22,6 +22,8 @@ export const Project = () => {
           <p className="projects__tags">
             <span>NextJs</span>
             <span>NodeJs</span>
+            <span>Tailwind</span>
+            <span>Typescript</span>
           </p>
           <div className="projects__links">
             <a href="https://ielts.lampnm.com/" className="underline" target="_blank" rel="noreferrer">
@@ -60,108 +62,49 @@ export const Project = () => {
 
         <div className="projects__item">
           <picture className="projects__picture">
-            <source media="(min-width: 62.5em)" srcSet="/assets/images/thumbnail-project-3-large.webp" />
+            <source media="(min-width: 62.5em)" srcSet="/assets/images/TitanHunterApp.webp" />
             <img
               className="projects__image"
-              src="/assets/images/thumbnail-project-3-small.webp"
+              src="/assets/images/TitanHunerApp.webp"
               alt="screenshot of To Do App showing a list of active and complete tasks"
               width-="343"
               height="253"
             />
           </picture>
-          <h3 className="projects__name">Todo Web App</h3>
+          <h3 className="projects__name">Titan Hunter App</h3>
           <p className="projects__tags">
-            <span>HTML</span>
-            <span>CSS</span>
-            <span>JavaScript</span>
+            <span>NextJS</span>
+            <span>Typescript</span>
+            <span>Tailwind</span>
+            <span>Web3.0</span>
           </p>
           <div className="projects__links">
-            <a href="" className="underline">
+            <a href="https://app.titanhunters.io/" className="underline" target="_blank" rel="noreferrer">
               View Project
-            </a>
-            <a href="" className="underline">
-              View Code
             </a>
           </div>
         </div>
 
         <div className="projects__item">
           <picture className="projects__picture">
-            <source media="(min-width: 62.5em)" srcSet="/assets/images/thumbnail-project-4-large.webp" />
+            <source media="(min-width: 62.5em)" srcSet="/assets/images/TitanHunterLandingPage.webp" />
             <img
               className="projects__image"
-              src="/assets/images/thumbnail-project-4-small.webp"
+              src="/assets/images/TitanHunterLandingPage.webp"
               alt="screenshot of video player app with grid of thumbnails of movies and TV shows"
               width-="343"
               height="253"
             />
           </picture>
-          <h3 className="projects__name">Entertainment Web App</h3>
+          <h3 className="projects__name">Titan Hunter LandingPage</h3>
           <p className="projects__tags">
-            <span>HTML</span>
-            <span>CSS</span>
-            <span>JavaScript</span>
+            <span>Nextjs</span>
+            <span>Typecript</span>
+            <span>Tailwind</span>
           </p>
           <div className="projects__links">
-            <a href="" className="underline">
+            <a href="https://www.titanhunters.io/" className="underline" target="_blank" rel="noreferrer">
               View Project
-            </a>
-            <a href="" className="underline">
-              View Code
-            </a>
-          </div>
-        </div>
-
-        <div className="projects__item">
-          <picture className="projects__picture">
-            <source media="(min-width: 62.5em)" srcSet="/assets/images/thumbnail-project-5-large.webp" />
-            <img
-              className="projects__image"
-              src="/assets/images/thumbnail-project-5-small.webp"
-              alt="screenshot of 4-player memory game with circular tiles that have symbols"
-              width-="343"
-              height="253"
-            />
-          </picture>
-          <h3 className="projects__name">Memory Game</h3>
-          <p className="projects__tags">
-            <span>HTML</span>
-            <span>CSS</span>
-            <span>JavaScript</span>
-          </p>
-          <div className="projects__links">
-            <a href="" className="underline">
-              View Project
-            </a>
-            <a href="" className="underline">
-              View Code
-            </a>
-          </div>
-        </div>
-
-        <div className="projects__item">
-          <picture className="projects__picture">
-            <source media="(min-width: 62.5em)" srcSet="/assets/images/thumbnail-project-6-large.webp" />
-            <img
-              className="projects__image"
-              src="/assets/images/thumbnail-project-6-small.webp"
-              alt="grid of thumbnails of famous works of art"
-              width-="343"
-              height="253"
-            />
-          </picture>
-          <h3 className="projects__name">Art Gallery Showcase</h3>
-          <p className="projects__tags">
-            <span>HTML</span>
-            <span>CSS</span>
-            <span>JavaScript</span>
-          </p>
-          <div className="projects__links">
-            <a href="" className="underline">
-              View Project
-            </a>
-            <a href="" className="underline">
-              View Code
             </a>
           </div>
         </div>
