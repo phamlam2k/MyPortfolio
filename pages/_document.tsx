@@ -12,30 +12,30 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <meta charSet="utf-8" />
-          <meta name="keywords" content="Hi! My name is Lam. Iam a web developer and welcome to my portfolio" />
+          <meta name="keywords" content="Hi! My name is lampnm. Iam a web developer and welcome to my portfolio" />
           <meta
             name="description"
             // eslint-disable-next-line max-len
-            content="The only official domain: Lam Pham"
+            content="The only official domain: lampnm"
           />
 
-          <meta name="application-name" content="Lam Pham" />
+          <meta name="application-name" content="lampnm" />
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-          <meta name="apple-mobile-web-app-title" content="Lam Pham" />
+          <meta name="apple-mobile-web-app-title" content="lampnm" />
 
           <meta name="format-detection" content="telephone=no" />
           <meta name="mobile-web-app-capable" content="yes" />
           <meta name="theme-color" content="#1285d2" />
 
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Lam Pham Portfolio" />
+          <meta property="og:title" content="lampnm Portfolio" />
           <meta
             property="og:description"
             // eslint-disable-next-line max-len
-            content="Hi! My name is Lam. Iam a web developer and welcome to my portfolio."
+            content="Hi! My name is lampnm. Iam a web developer and welcome to my portfolio."
           />
-          <meta property="og:site_name" content="Lam Pham" />
+          <meta property="og:site_name" content="lampnm" />
           <meta property="og:url" content="https://www.lampnm.com" />
           <meta
             property="og:image"
@@ -44,8 +44,8 @@ class MyDocument extends Document {
 
           <link rel="manifest" href="/manifest.json" />
 
-          <link rel="icon" href="/favicon.ico" />
-          <link rel="shortcut icon" href="/favicon.ico" />
+          <link rel="icon" href="/lampnm.svg" />
+          <link rel="shortcut icon" href="/lampnm.svg" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link rel="preconnect" href="https://cdn-homepage.cloudfront.net" />

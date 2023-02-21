@@ -10,7 +10,7 @@ export const Introduction = () => {
           <img
             className="hero__image"
             src="/assets/images/avatar_justin.webp"
-            alt="picture of Adam Keyes"
+            alt="picture of Lam Pham"
             width-="174"
             height="383"
           />
@@ -22,7 +22,12 @@ export const Introduction = () => {
             Nice to meet you! I'm <span>Lam Pham</span>.
           </h1>
           <p className="hero__description">
-            Based in the VN, I'm a front-end developer passionate about building accessible web apps that users love.
+            Based in Vietnam, As a web developer with a strong passion for designing and developing responsive,
+            user-friendly websites, I am excited to leverage my technical skills and creativity to contribute to the
+            success of Rikkeisoft. My experience in ReactJs, NodeJs, React native, and other web technologies, combined
+            with my ability to learn quickly and work collaboratively, makes me confident in my ability to take on any
+            challenge in the field of web development. I am eager to bring my skills and enthusiasm to a dynamic team
+            and contribute to building exceptional digital experiences.
           </p>
           <a href="#contact" className="hero__contact underline">
             Contact me
