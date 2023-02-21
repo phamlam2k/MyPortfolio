@@ -465,7 +465,7 @@ h1 > span {
   }
 
   .hero__description {
-    width: 38ch;
+    width: 50ch;
     margin-block-end: 66px;
   }
 }
