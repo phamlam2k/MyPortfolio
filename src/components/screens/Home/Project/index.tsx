@@ -9,59 +9,6 @@ export const Project = () => {
 
         <div className="projects__item">
           <picture className="projects__picture">
-            <source media="(min-width: 62.5em)" srcSet="/assets/images/IeltsProject.webp" />
-            <img
-              className="projects__image"
-              src="/assets/images/IeltsProject.webp"
-              alt="screenshot of design portfolio website"
-              width-="343"
-              height="253"
-            />
-          </picture>
-          <h3 className="projects__name">Ielts Project</h3>
-          <p className="projects__tags">
-            <span>NextJs</span>
-            <span>NodeJs</span>
-            <span>Tailwind</span>
-            <span>Typescript</span>
-          </p>
-          <div className="projects__links">
-            <a href="https://ielts.lampnm.com/" className="underline" target="_blank" rel="noreferrer">
-              View Project
-            </a>
-          </div>
-        </div>
-
-        <div className="projects__item">
-          <picture className="projects__picture">
-            <source media="(min-width: 62.5em)" srcSet="/assets/images/AmialandProject.webp" />
-            <img
-              className="projects__image"
-              src="/assets/images/AmialandProject.webp"
-              alt="screenshot of learning platform website with different courses"
-              width-="343"
-              height="253"
-            />
-          </picture>
-          <h3 className="projects__name">Amialand Landing Page</h3>
-          <p className="projects__tags">
-            <span>HTML</span>
-            <span>CSS</span>
-          </p>
-          <div className="projects__links">
-            <a
-              href="https://web-final-hanu.vercel.app/index.html"
-              className="underline"
-              target="_blank"
-              rel="noreferrer"
-            >
-              View Project
-            </a>
-          </div>
-        </div>
-
-        <div className="projects__item">
-          <picture className="projects__picture">
             <source media="(min-width: 62.5em)" srcSet="/assets/images/TitanHunterApp.webp" />
             <img
               className="projects__image"
@@ -104,6 +51,107 @@ export const Project = () => {
           </p>
           <div className="projects__links">
             <a href="https://www.titanhunters.io/" className="underline" target="_blank" rel="noreferrer">
+              View Project
+            </a>
+          </div>
+        </div>
+
+        <div className="projects__item">
+          <picture className="projects__picture">
+            <source media="(min-width: 62.5em)" srcSet="/assets/images/Go2ELandingPage.webp" />
+            <img
+              className="projects__image"
+              src="/assets/images/Go2ELandingPage.webp"
+              alt="screenshot of video player app with grid of thumbnails of movies and TV shows"
+              width-="343"
+              height="253"
+            />
+          </picture>
+          <h3 className="projects__name">Go2E LandingPage</h3>
+          <p className="projects__tags">
+            <span>PHP</span>
+            <span>HTML</span>
+            <span>CSS</span>
+          </p>
+          <div className="projects__links">
+            <a href="https://go2e.io/" className="underline" target="_blank" rel="noreferrer">
+              View Project
+            </a>
+          </div>
+        </div>
+
+        <div className="projects__item">
+          <picture className="projects__picture">
+            <source media="(min-width: 62.5em)" srcSet="/assets/images/Go2EApp.webp" />
+            <img
+              className="projects__image"
+              src="/assets/images/Go2EApp.webp"
+              alt="screenshot of video player app with grid of thumbnails of movies and TV shows"
+              width-="343"
+              height="253"
+            />
+          </picture>
+          <h3 className="projects__name">Go2E App</h3>
+          <p className="projects__tags">
+            <span>Nextjs</span>
+            <span>Typecript</span>
+            <span>Tailwind</span>
+          </p>
+          <div className="projects__links">
+            <a href="https://app.go2e.io/" className="underline" target="_blank" rel="noreferrer">
+              View Project
+            </a>
+          </div>
+        </div>
+
+        <div className="projects__item">
+          <picture className="projects__picture">
+            <source media="(min-width: 62.5em)" srcSet="/assets/images/IeltsProject.webp" />
+            <img
+              className="projects__image"
+              src="/assets/images/IeltsProject.webp"
+              alt="screenshot of design portfolio website"
+              width-="343"
+              height="253"
+            />
+          </picture>
+          <h3 className="projects__name">Ielts Project</h3>
+          <p className="projects__tags">
+            <span>NextJs</span>
+            <span>NodeJs</span>
+            <span>Tailwind</span>
+            <span>Typescript</span>
+          </p>
+          <div className="projects__links">
+            <a href="https://ielts.lampnm.com/" className="underline" target="_blank" rel="noreferrer">
+              View Own Project ( Updating... )
+            </a>
+          </div>
+        </div>
+
+        <div className="projects__item">
+          <picture className="projects__picture">
+            <source media="(min-width: 62.5em)" srcSet="/assets/images/AmialandProject.webp" />
+            <img
+              className="projects__image"
+              src="/assets/images/AmialandProject.webp"
+              alt="screenshot of learning platform website with different courses"
+              width-="343"
+              height="253"
+            />
+          </picture>
+          <h3 className="projects__name">Amialand Landing Page</h3>
+          <p className="projects__tags">
+            <span>HTML</span>
+            <span>CSS</span>
+          </p>
+          <div className="projects__links">
+            <a
+              href="https://web-final-hanu.vercel.app/index.html"
+              className="underline"
+              target="_blank"
+              rel="noreferrer"
+            >
               View Project
             </a>
           </div>
