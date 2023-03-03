@@ -5,18 +5,30 @@ export const Introduction = () => {
     <div className="wrapper hero__wrapper bottom-border">
       <div className="hero__content">
         <picture>
-          <source media="(min-width: 62.5em)" srcSet="/assets/images/avatar_justin.webp" />
-          <source media="(min-width: 37.5em)" srcSet="/assets/images/avatar_justin.webp" />
+          <source media="(min-width: 62.5em)" srcSet="/assets/images/lampham.webp" />
+          <source media="(min-width: 37.5em)" srcSet="/assets/images/lampham.webp" />
           <img
             className="hero__image"
-            src="/assets/images/avatar_justin.webp"
+            src="/assets/images/lampham.webp"
             alt="picture of Lam Pham"
             width-="174"
             height="383"
           />
         </picture>
-        <img className="hero__rings" src="/assets/images/pattern-rings.svg" alt="" width="530" height="129" />
-        <img className="hero__circle" src="/assets/images/pattern-circle.svg" alt="" width="129" height="129" />
+        <img
+          className="hero__rings"
+          src="/assets/images/pattern-rings.svg"
+          alt="Lam Pham ring"
+          width="530"
+          height="129"
+        />
+        <img
+          className="hero__circle"
+          src="/assets/images/pattern-circle.svg"
+          alt="Lam Pham cicrle"
+          width="129"
+          height="129"
+        />
         <div className="hero__text">
           <h1 className="hero__headline header-xl">
             Nice to meet you! I'm <span>Lam Pham</span>.

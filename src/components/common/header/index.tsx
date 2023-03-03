@@ -8,7 +8,7 @@ export const Header = () => {
         <nav className="header__nav">
           <h2 className="visually-hidden">Navigation</h2>
           <Link href="/" className="header__home">
-            lampham
+            Lam Pham
             <span className="visually-hidden">(to home page)</span>
           </Link>
 
